@@ -1,0 +1,3 @@
+Chinese-Llama-2-7b-4bit：https://huggingface.co/LinkSoul/Chinese-Llama-2-7b-4bit
+Chinese-Llama-2-7b：https://huggingface.co/LinkSoul/Chinese-Llama-2-7b
+Baichuan2-7B-Chat：https://huggingface.co/baichuan-inc/Baichuan2-7B-Chat
